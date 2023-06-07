@@ -13,7 +13,7 @@ export default function Hero() {
           </h1>
           <h2 className="text-primary text-xl tracking-wide mt-3">Frontend developer</h2>
           <p className="text-secondary text-md tracking-wide mt-4">
-            I create web-based digital experiences that prioritize accessibility.
+            I create web-based digital experiences that prioritize responsiveness.
           </p>
           <div className="flex gap-x-4 pt-6 text-secondary">
             <a
