@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/razdev/static/css/main.65ac673b.css",
-    "main.js": "/razdev/static/js/main.75685099.js",
+    "main.js": "/razdev/static/js/main.9bbd4433.js",
     "static/media/bistrocafe.png": "/razdev/static/media/bistrocafe.39c8aab361841241d4df.png",
     "static/media/hero-image.png": "/razdev/static/media/hero-image.7e51e614c42e6a2c5573.png",
     "static/media/carrental.png": "/razdev/static/media/carrental.7efa438cdbda278ea8e2.png",
     "static/media/dexonline.png": "/razdev/static/media/dexonline.9d0e2993d09e05280769.png",
     "static/media/guessthecolor.png": "/razdev/static/media/guessthecolor.62d695263571b946b3c7.png",
-    "static/media/resume.pdf": "/razdev/static/media/resume.085a08b69424343ef8b3.pdf",
+    "static/media/resume.pdf": "/razdev/static/media/resume.b66faf5350a125be3803.pdf",
     "static/media/contact.svg": "/razdev/static/media/contact.0c00bc5afda04e8b684ac48a99a5585a.svg",
     "static/media/heroBG.svg": "/razdev/static/media/heroBG.15320be38d9a4c819a7d.svg",
     "index.html": "/razdev/index.html",
     "main.65ac673b.css.map": "/razdev/static/css/main.65ac673b.css.map",
-    "main.75685099.js.map": "/razdev/static/js/main.75685099.js.map"
+    "main.9bbd4433.js.map": "/razdev/static/js/main.9bbd4433.js.map"
   },
   "entrypoints": [
     "static/css/main.65ac673b.css",
-    "static/js/main.75685099.js"
+    "static/js/main.9bbd4433.js"
   ]
 }
