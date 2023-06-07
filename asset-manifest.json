@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/razdev/static/css/main.65ac673b.css",
-    "main.js": "/razdev/static/js/main.9bbd4433.js",
+    "main.css": "/razdev/static/css/main.994ed057.css",
+    "main.js": "/razdev/static/js/main.d579779e.js",
     "static/media/bistrocafe.png": "/razdev/static/media/bistrocafe.39c8aab361841241d4df.png",
     "static/media/hero-image.png": "/razdev/static/media/hero-image.7e51e614c42e6a2c5573.png",
     "static/media/carrental.png": "/razdev/static/media/carrental.7efa438cdbda278ea8e2.png",
@@ -11,11 +11,11 @@
     "static/media/contact.svg": "/razdev/static/media/contact.0c00bc5afda04e8b684ac48a99a5585a.svg",
     "static/media/heroBG.svg": "/razdev/static/media/heroBG.15320be38d9a4c819a7d.svg",
     "index.html": "/razdev/index.html",
-    "main.65ac673b.css.map": "/razdev/static/css/main.65ac673b.css.map",
-    "main.9bbd4433.js.map": "/razdev/static/js/main.9bbd4433.js.map"
+    "main.994ed057.css.map": "/razdev/static/css/main.994ed057.css.map",
+    "main.d579779e.js.map": "/razdev/static/js/main.d579779e.js.map"
   },
   "entrypoints": [
-    "static/css/main.65ac673b.css",
-    "static/js/main.9bbd4433.js"
+    "static/css/main.994ed057.css",
+    "static/js/main.d579779e.js"
   ]
 }
