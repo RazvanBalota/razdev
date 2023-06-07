@@ -50,7 +50,7 @@ export default function Experience() {
             {jobs.map((job, index) => (
               <h2
                 key={index}
-                className={` font-inter w-28 pt-2 text-lg cursor-pointer flex justify-center lg:justify-normal py-3 lg:py-10 lg:px-5 border-b-[3px] lg:border-b-0 lg:border-l-[3px] hover:text-purple hover:opacity-100 hover:border-purple  transition-all duration-200 ${
+                className={` font-inter w-28 lg:w-32 pt-2 text-lg cursor-pointer flex justify-center lg:justify-normal py-3 lg:py-10 lg:px-5 border-b-[3px] lg:border-b-0 lg:border-l-[3px] hover:text-purple hover:opacity-100 hover:border-purple  transition-all duration-200 ${
                   activeJobIndex === index ? "text-purple font-medium border-purple " : "text-secondary "
                 }`}
                 onClick={() => setActiveJobIndex(index)}>
