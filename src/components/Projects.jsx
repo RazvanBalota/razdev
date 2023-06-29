@@ -3,6 +3,7 @@ import dexonline from "../assets/projects/dexonline.png";
 import bistrocafe from "../assets/projects/bistrocafe.png";
 import carrental from "../assets/projects/carrental.png";
 import guessthecolor from "../assets/projects/guessthecolor.png";
+import carsharing from "../assets/projects/carsharing.png";
 import { FiExternalLink } from "react-icons/fi";
 import { AiFillGithub } from "react-icons/ai";
 
