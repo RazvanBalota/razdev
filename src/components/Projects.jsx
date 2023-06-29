@@ -8,6 +8,17 @@ import { AiFillGithub } from "react-icons/ai";
 
 const projects = [
   {
+    title: "Car Sharing Oradea",
+    img: carsharing,
+    description:
+      "The landing page showcases a visually appealing design with interactive animations created using Framer Motion. It aims to provide a delightful user experience and effectively communicate the message of the service promoted.",
+    tech: ["React  ", "Tailwind  ", "Git"],
+    visit: {
+      github: `https://github.com/Razvi42/car-sharing`,
+      website: `https://car-sharing-oradea.netlify.app/`,
+    },
+  },
+  {
     title: "Dexonline Clone",
     img: dexonline,
     description: (
