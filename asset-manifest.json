@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/razdev/static/css/main.994ed057.css",
-    "main.js": "/razdev/static/js/main.a4b4ea7c.js",
+    "main.js": "/razdev/static/js/main.c48f0e68.js",
     "static/media/bistrocafe.png": "/razdev/static/media/bistrocafe.39c8aab361841241d4df.png",
     "static/media/carsharing.png": "/razdev/static/media/carsharing.ee0abce1eb73d8f77bf2.png",
     "static/media/hero-image.png": "/razdev/static/media/hero-image.7e51e614c42e6a2c5573.png",
     "static/media/carrental.png": "/razdev/static/media/carrental.7efa438cdbda278ea8e2.png",
+    "static/media/resume.pdf": "/razdev/static/media/resume.21395f60da7e43f998b2.pdf",
     "static/media/dexonline.png": "/razdev/static/media/dexonline.9d0e2993d09e05280769.png",
     "static/media/guessthecolor.png": "/razdev/static/media/guessthecolor.62d695263571b946b3c7.png",
-    "static/media/resume.pdf": "/razdev/static/media/resume.eeaae8ddf9b0e50769e7.pdf",
     "static/media/contact.svg": "/razdev/static/media/contact.0c00bc5afda04e8b684ac48a99a5585a.svg",
     "static/media/heroBG.svg": "/razdev/static/media/heroBG.15320be38d9a4c819a7d.svg",
     "index.html": "/razdev/index.html",
     "main.994ed057.css.map": "/razdev/static/css/main.994ed057.css.map",
-    "main.a4b4ea7c.js.map": "/razdev/static/js/main.a4b4ea7c.js.map"
+    "main.c48f0e68.js.map": "/razdev/static/js/main.c48f0e68.js.map"
   },
   "entrypoints": [
     "static/css/main.994ed057.css",
-    "static/js/main.a4b4ea7c.js"
+    "static/js/main.c48f0e68.js"
   ]
 }
